@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">466363059872-1dh8f5f5mouj80jo3lvo4gga0589h4ii.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://bicisafe.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">466363059872</string>
+    <string name="google_api_key" translatable="false">AIzaSyARxLi4eRvz5kEvM3bAGLCPLN-0ocKvX0E</string>
+    <string name="google_app_id" translatable="false">1:466363059872:android:b23b7ac2950ef9af</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyARxLi4eRvz5kEvM3bAGLCPLN-0ocKvX0E</string>
+    <string name="google_storage_bucket" translatable="false">bicisafe.appspot.com</string>
+    <string name="project_id" translatable="false">bicisafe</string>
+</resources>

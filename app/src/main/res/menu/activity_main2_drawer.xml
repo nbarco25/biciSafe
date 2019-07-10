@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/iniciar_recorrido"
+            android:icon="@android:drawable/ic_media_play"
+            android:title="Iniciar Recorrido" />
+        <item
+            android:id="@+id/mis_recorridos"
+            android:icon="@android:drawable/ic_menu_directions"
+            android:title="Mis Recorridos" />
+        <item
+            android:id="@+id/detener_recorrido"
+            android:icon="@android:drawable/ic_media_pause"
+            android:title="Detener Recorrido" />
+        <item
+            android:id="@+id/configuracion"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Configuracion" />
+    </group>
+
+    <item android:title="Perfil">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@mipmap/bici2"
+                android:title="@string/menu_share" />
+            <item
+                android:id="@+id/cerrar_sesion"
+                android:icon="@android:drawable/ic_delete"
+                android:title="Cerrar Sesión" />
+        </menu>
+    </item>
+
+</menu>

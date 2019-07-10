@@ -1,0 +1,4 @@
+#Tue Jun 25 12:15:41 COT 2019
+base.0=C\:\\Users\\Usuario\\AndroidStudioProjects\\BiciSafe\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\4
+path.0=classes.dex
+renamed.0=classes.dex
